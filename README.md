@@ -14,6 +14,11 @@ parameters.
 probabiltiies that each observed heteroplasmic mutation is de novo somewhere on
 the phylogeny of the sampled tissues.
 
+The remaining scripts require output from steps 1) and/or 2). Step 1) in
+particular is a big computational task. Subsamples of the authors' MCMC samples
+from Step 1) and 2) are provided in the `results/` directory, and thus it is
+possible to run the remaining analyses without actually repeating the first two
+steps.
 
 3) `postmutloc.ipynb` --- Carry out calculations and make plots related to the
 above posterior de novo probabilities.
