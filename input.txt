@@ -1,0 +1,9 @@
+data/final_count_data_0012.txt trees/ont_phylogeny_0012.newick data/final_age_data_0012.txt
+data/final_count_data_0013.txt trees/ont_phylogeny_0013.newick data/final_age_data_0013.txt
+data/final_count_data_0014.txt trees/ont_phylogeny_0014.newick data/final_age_data_0014.txt
+data/final_count_data_0015.txt trees/ont_phylogeny_0015.newick data/final_age_data_0015.txt
+data/final_count_data_0112.txt trees/ont_phylogeny_0112.newick data/final_age_data_0112.txt
+data/final_count_data_0113.txt trees/ont_phylogeny_0113.newick data/final_age_data_0113.txt
+data/final_count_data_0122.txt trees/ont_phylogeny_0122.newick data/final_age_data_0122.txt
+data/final_count_data_1113.txt trees/ont_phylogeny_1113.newick data/final_age_data_1113.txt
+data/final_count_data_1212.txt trees/ont_phylogeny_1212.newick data/final_age_data_1212.txt
