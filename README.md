@@ -4,7 +4,7 @@ and pedigrees: Strong effects of the germline bottleneck, mother's age, and
 selection". In particular, this repository focuses on the paper's ontogenetic
 phylogeny likelihood (OPL) methodology.
 
-The recommended order of analyses is:
+The recommended order of analysis is:
 
 1) `run_mope.sh`  --- Run this script (or run the listed commands individually)
 to install MOPE and generate MCMC samples of genetic drift and mutation rate
