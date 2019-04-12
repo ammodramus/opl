@@ -20,14 +20,17 @@ from Step 1) and 2) are provided in the `results/` directory, and thus it is
 possible to run the remaining analyses without actually repeating the first two
 steps.
 
-3) `postmutloc.ipynb` --- Carry out calculations and make plots related to the
+3) `opl_results.ipynb` --- Make plots and get summary statistics of genetic
+drift and mutation rate parameters inferred in step 1).
+
+4) `postmutloc.ipynb` --- Carry out calculations and make plots related to the
 above posterior de novo probabilities.
 
-4) `germline_de_novo_regressions.ipynb` --- Perform regressions of number of
+5) `germline_de_novo_regressions.ipynb` --- Perform regressions of number of
 germline de novo mutations against age.
 
-4) `persistence.ipynb` --- Carry out calculations and make plots related to
+5) `persistence.ipynb` --- Carry out calculations and make plots related to
 heteroplasmy persistence in the human population.
 
-5) `mutation_enrichment.ipynb` --- Perform calculations on mutation enrichment
+6) `mutation_enrichment.ipynb` --- Perform calculations on mutation enrichment
 in different mtDNA position categories, presented in Table S2.
